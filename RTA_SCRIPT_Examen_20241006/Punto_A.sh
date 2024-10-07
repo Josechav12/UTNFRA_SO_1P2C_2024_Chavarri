@@ -1,12 +1,9 @@
-Punto A:
-#comando unico para crear la estructura
+#!/bin/bash
+
+echo "Punto A:"
 
 mkdir -p /Examenes-UTN/{alumno_{1,2,3}/parcial_{1,2,3},profesores}
 
-mkdir -p #comando que crea los directorios
+echo "comando unico para crear la estructura del punto A"
 
-/Examenes-UTN/{alumno_{1,2,3} #expresion que crea las carpetas.
 
-/parcial_{1..3} #expresion que crea los subdirectorios.
-
-,profesores #crea la carpeta al mismo nivel que la de los alumnos.
