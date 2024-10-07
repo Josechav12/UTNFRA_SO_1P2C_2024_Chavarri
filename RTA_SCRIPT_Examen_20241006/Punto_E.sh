@@ -1,3 +1,5 @@
+##!/bin/bash
+
 # entramos al archivo RTA_ARCHIVOS_Examen_20240928/
 cd /repogit/RTA_ARCHIVOS_Examen_20240928/
 

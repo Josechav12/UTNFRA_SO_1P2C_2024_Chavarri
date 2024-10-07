@@ -1,3 +1,5 @@
+##!/bin/bash
+
 # nos ubicamos en la ruta asignada y generamos el archivo .txt
 cd /repogit/UTNFRA_SO_1P2C_2024_Chavarri/RTA_ARCHIVOS_Examen_20241006
 touch Filtro_Avanzado.txt
