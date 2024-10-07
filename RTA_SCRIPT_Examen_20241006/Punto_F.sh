@@ -21,5 +21,3 @@ echo "Mi Usuario es: $User" > Filtro_Avanzado.txt
 echo "El Hash de mi usuario es: $HASH_user" > Filtro_Avanzado.txt
 echo "La URL de mi repositorio es: $Git_repo" > Filtro_Avanzado.txt
 
-# mostramos el contenido
-cat Filtro_Avanzado.txt
